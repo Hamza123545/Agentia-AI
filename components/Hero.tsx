@@ -15,7 +15,7 @@ export default function Hero() {
         
         {/* Animated Badge - Powered by Panaversity */}
         <p className="text-[10px] sm:text-xs uppercase bg-gray-900 px-3 sm:px-4 py-1 rounded-full w-fit mx-auto flex items-center space-x-2">
-          <span className="relative flex h-2 w-2">
+          <span className="relative flex h-3 w-3">
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-purple-500 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-3 w-3 bg-purple-500"></span>
           </span>
