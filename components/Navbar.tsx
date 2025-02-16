@@ -24,7 +24,7 @@ export default function Navbar() {
       {/* Logo Section */}
       <div className="flex items-center space-x-2">
         {/* Bot icon as a logo */}
-        <Bot className="w-6 h-6 text-purple-500" />
+        <Bot className="w-7 h-7 text-purple-500" />
         <Link href="/" className="text-lg font-bold hover:text-purple-400 transition duration-300">
           Agentia World
         </Link>
