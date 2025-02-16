@@ -20,7 +20,7 @@ export default function InputField() {
   const [charIndex, setCharIndex] = useState(0);
 
   // Typing Speed Configuration
-  const typingSpeed = isDeleting ? 50 : 100;
+  const typingSpeed = isDeleting ? 40 : 80;
 
   // Typing Effect Logic using useEffect
   useEffect(() => {
